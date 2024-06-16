@@ -7,7 +7,7 @@ export const SITE = {
 	pic: 'https://gw.alicdn.com/imgextra/i4/O1CN010j3h201UDilmn716N_!!6000000002484-2-tps-1280-640.png',
 	homePage: 'https://weekly.tw93.fun',
 	blogPage: 'https://tw93.fun/',
-	twitterId: 'HiTw93',
+
 	githubId: 'ayou001',
-	repo: 'tw93/weekly',
+	repo: 'ayou001/weekly',
 };

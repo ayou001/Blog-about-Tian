@@ -58,6 +58,7 @@ function defaultLayoutPlugin() {
 	};
 }
 
+
 export default defineConfig({
 	prefetch: true,
 	integrations: [tailwind()],
