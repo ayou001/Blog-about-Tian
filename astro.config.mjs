@@ -8,7 +8,7 @@ import { SITE } from './src/config';
 import rehypeCustomizeImageSrc from './rehype-customize-image-src.js';
 
 const DEFAULT_FORMAT = 'YYYY/MM/DD';
-const WEEKLY_REPO_NAME = 'tw93/weekly';
+const WEEKLY_REPO_NAME = 'ayou001/Blog-about-Tian';
 
 function getCreateDateFormat(filePath) {
 	return dayjs(fs.statSync(filePath).birthtime).format(DEFAULT_FORMAT);
