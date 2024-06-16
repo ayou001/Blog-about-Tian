@@ -1,5 +1,5 @@
-# Blog with TianTian
+# Blog with Tian
 
-> 记录工程师 ayou001的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/tw93/weekly/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/tw93/weekly/blob/main/Deploy.md)，期待你玩得开心~
+> 记录ayou与Tian的友谊~，希望自己能成为一个热爱生活的人，记录模版来自[Tw93](https://github.com/tw93/weekly)
 
-- [第 01 期 - 安吉黄昏](https://weekly.tw93.fun/posts/01-安吉黄昏)
+- [第 01 期 - 拿错外卖](https://blog-about-tian.vercel.app/posts/01-拿错外卖)
