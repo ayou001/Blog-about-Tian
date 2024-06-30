@@ -5,3 +5,4 @@
 - [第 01 期 - 拿错外卖](https://blog.aayou.fun/posts/01-拿错外卖)
 - [第 02 期 - 艺术家甜](https://blog.aayou.fun/posts/02-艺术家甜)
 - [第 03 期 - 关于未来](https://blog.aayou.fun/posts/03-关于未来)
+- [第 04 期 - 生日快乐](https://blog.aayou.fun/posts/04-生日快乐)
