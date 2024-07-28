@@ -14,7 +14,7 @@ export function GET() {
 	return rss({
 		title: '友谊博客',
 		description: '记录泽与甜的友谊',
-		site: 'https://blog-about-tian.vercel.app/',
+		site: 'https://blog.aayou.fun/',
 		customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
 		items: posts.map((item) => {
 			const url = item.url;
