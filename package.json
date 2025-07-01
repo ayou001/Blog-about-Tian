@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@pagefind/default-ui": "^1.1.0",
+    "@vercel/speed-insights": "^1.2.0",
     "astro": "^4.7.1",
     "dayjs": "^1.11.11",
     "lozad": "^1.16.0",

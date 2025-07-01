@@ -2,10 +2,11 @@
 
 > 记录ayou与朋友之间的友谊~，希望自己能成为一个热爱生活的人，记录模版来自[Tw93](https://github.com/tw93/weekly)
 
-- [第 01 期 - 拿错外卖](https://blog.aayou.fun/posts/01-拿错外卖)
+<!-- - [第 01 期 - 拿错外卖](https://blog.aayou.fun/posts/01-拿错外卖)
 - [第 02 期 - 艺术家甜](https://blog.aayou.fun/posts/02-艺术家甜)
 - [第 03 期 - 关于未来](https://blog.aayou.fun/posts/03-关于未来)
 - [第 04 期 - 生日快乐](https://blog.aayou.fun/posts/04-生日快乐)
 - [第 05 期 - 期末杂谈](https://blog.aayou.fun/posts/05-期末杂谈)
-- [第 06 期 - 好久不见](https://blog.aayou.fun/posts/06-好久不见)
-- [第 07 期 - 会遗憾吗](https://blog.aayou.fun/posts/07-会遗憾吗)
+- [第 06 期 - 好久不见](https://blog.aayou.fun/posts/06-好久不见) -->
+
+- [第 01 期 - 重新开始](https://blog.aayou.fun/posts/01-重新开始)
